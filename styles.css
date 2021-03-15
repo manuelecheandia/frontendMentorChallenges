@@ -1,0 +1,27 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+*{
+    box-sizing: border-box;
+}
+
+.card{
+    width: 375px;
+    height: auto;
+    padding: 10px;
+}
+body{
+    font-family: Kumbh Sans;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+header{
+    background-image: url(images/bg-pattern-card.svg);
+    width: 100vw;
+    height: 200px;
+}
+
+/* main{
+
+} */
